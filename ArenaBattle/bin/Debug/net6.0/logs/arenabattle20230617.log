@@ -1,0 +1,480 @@
+2023-06-17 20:40:13.098 +02:00 [INF] Battle has started!
+2023-06-17 20:40:13.261 +02:00 [INF] Battle round: 1
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:13.263 +02:00 [INF] Battle round: 2
+Offensive hero:
+	Type: Sword
+	HP:120->60
+Defensive hero:
+	Type: Rider
+	HP:75->37
+2023-06-17 20:40:13.264 +02:00 [INF] Battle round: 3
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:13.265 +02:00 [INF] Battle round: 4
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:13.266 +02:00 [INF] Battle round: 5
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:13.267 +02:00 [INF] Battle round: 6
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Sword
+	HP:90->0
+2023-06-17 20:40:13.268 +02:00 [INF] Battle round: 7
+Offensive hero:
+	Type: Rider
+	HP:150->0
+Defensive hero:
+	Type: Sword
+	HP:120->120
+2023-06-17 20:40:13.270 +02:00 [INF] Battle round: 8
+Offensive hero:
+	Type: Rider
+	HP:115->57
+Defensive hero:
+	Type: Rider
+	HP:95->0
+2023-06-17 20:40:13.272 +02:00 [INF] Battle round: 9
+Offensive hero:
+	Type: Sword
+	HP:120->60
+Defensive hero:
+	Type: Rider
+	HP:150->75
+2023-06-17 20:40:13.273 +02:00 [INF] Battle round: 10
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:13.282 +02:00 [INF] Battle round: 11
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Rider
+	HP:117->58
+2023-06-17 20:40:13.283 +02:00 [INF] Battle round: 12
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Rider
+	HP:87->43
+2023-06-17 20:40:13.285 +02:00 [INF] Battle round: 13
+Offensive hero:
+	Type: Rider
+	HP:68->0
+Defensive hero:
+	Type: Rider
+	HP:150->150
+2023-06-17 20:40:13.286 +02:00 [INF] Battle round: 14
+Offensive hero:
+	Type: Rider
+	HP:53->0
+Defensive hero:
+	Type: Archer
+	HP:100->100
+2023-06-17 20:40:13.288 +02:00 [INF] Battle round: 15
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Archer
+	HP:70->0
+2023-06-17 20:40:13.293 +02:00 [INF] Battle round: 16
+Offensive hero:
+	Type: Archer
+	HP:90->45
+Defensive hero:
+	Type: Sword
+	HP:120->0
+2023-06-17 20:40:13.295 +02:00 [INF] Battle round: 17
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Rider
+	HP:145->72
+2023-06-17 20:40:13.297 +02:00 [INF] Battle round: 18
+Offensive hero:
+	Type: Archer
+	HP:70->35
+Defensive hero:
+	Type: Rider
+	HP:145->72
+2023-06-17 20:40:13.298 +02:00 [INF] Battle round: 19
+Offensive hero:
+	Type: Archer
+	HP:65->32
+Defensive hero:
+	Type: Rider
+	HP:82->0
+2023-06-17 20:40:13.299 +02:00 [INF] Battle round: 20
+Offensive hero:
+	Type: Archer
+	HP:45->0
+Defensive hero:
+	Type: Rider
+	HP:150->150
+2023-06-17 20:40:13.299 +02:00 [INF] Battle round: 21
+Offensive hero:
+	Type: Archer
+	HP:80->40
+Defensive hero:
+	Type: Rider
+	HP:92->0
+2023-06-17 20:40:13.300 +02:00 [INF] Battle round: 22
+Offensive hero:
+	Type: Rider
+	HP:150->0
+Defensive hero:
+	Type: Sword
+	HP:120->120
+2023-06-17 20:40:13.301 +02:00 [INF] Battle round: 23
+Offensive hero:
+	Type: Rider
+	HP:150->0
+Defensive hero:
+	Type: Sword
+	HP:120->120
+2023-06-17 20:40:13.303 +02:00 [INF] Battle round: 24
+Offensive hero:
+	Type: Archer
+	HP:60->30
+Defensive hero:
+	Type: Sword
+	HP:120->0
+2023-06-17 20:40:13.304 +02:00 [INF] Battle round: 25
+Offensive hero:
+	Type: Archer
+	HP:82->41
+Defensive hero:
+	Type: Archer
+	HP:30->0
+2023-06-17 20:40:13.305 +02:00 [INF] Victorious hero: 
+		Id:9d138242-0489-4f87-a086-99a701d3b5ec
+		Type: Archer
+		HP: 41
+2023-06-17 20:40:13.308 +02:00 [INF] Battle has finished!
+2023-06-17 20:40:22.441 +02:00 [INF] Battle has started!
+2023-06-17 20:40:22.622 +02:00 [INF] Battle round: 1
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Rider
+	HP:150->75
+2023-06-17 20:40:22.623 +02:00 [INF] Battle round: 2
+Offensive hero:
+	Type: Rider
+	HP:75->37
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:22.624 +02:00 [INF] Battle round: 3
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:37->0
+2023-06-17 20:40:22.624 +02:00 [INF] Battle round: 4
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:22.625 +02:00 [INF] Battle round: 5
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:22.625 +02:00 [INF] Battle round: 6
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:22.626 +02:00 [INF] Battle round: 7
+Offensive hero:
+	Type: Rider
+	HP:105->52
+Defensive hero:
+	Type: Rider
+	HP:75->0
+2023-06-17 20:40:22.627 +02:00 [INF] Battle round: 8
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Archer
+	HP:70->0
+2023-06-17 20:40:22.627 +02:00 [INF] Battle round: 9
+Offensive hero:
+	Type: Sword
+	HP:120->60
+Defensive hero:
+	Type: Rider
+	HP:115->57
+2023-06-17 20:40:22.628 +02:00 [INF] Battle round: 10
+Offensive hero:
+	Type: Archer
+	HP:60->30
+Defensive hero:
+	Type: Sword
+	HP:60->0
+2023-06-17 20:40:22.628 +02:00 [INF] Battle round: 11
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:22.629 +02:00 [INF] Battle round: 12
+Offensive hero:
+	Type: Archer
+	HP:40->0
+Defensive hero:
+	Type: Archer
+	HP:100->50
+2023-06-17 20:40:22.630 +02:00 [INF] Battle round: 13
+Offensive hero:
+	Type: Rider
+	HP:150->0
+Defensive hero:
+	Type: Sword
+	HP:120->120
+2023-06-17 20:40:22.631 +02:00 [INF] Battle round: 14
+Offensive hero:
+	Type: Rider
+	HP:112->56
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:22.631 +02:00 [INF] Battle round: 15
+Offensive hero:
+	Type: Sword
+	HP:120->60
+Defensive hero:
+	Type: Sword
+	HP:120->0
+2023-06-17 20:40:22.632 +02:00 [INF] Battle round: 16
+Offensive hero:
+	Type: Rider
+	HP:117->58
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:22.636 +02:00 [INF] Battle round: 17
+Offensive hero:
+	Type: Sword
+	HP:70->35
+Defensive hero:
+	Type: Sword
+	HP:120->0
+2023-06-17 20:40:22.637 +02:00 [INF] Battle round: 18
+Offensive hero:
+	Type: Sword
+	HP:35->0
+Defensive hero:
+	Type: Rider
+	HP:150->150
+2023-06-17 20:40:22.638 +02:00 [INF] Battle round: 19
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:96->0
+2023-06-17 20:40:22.639 +02:00 [INF] Battle round: 20
+Offensive hero:
+	Type: Rider
+	HP:88->44
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:22.640 +02:00 [INF] Battle round: 21
+Offensive hero:
+	Type: Rider
+	HP:85->42
+Defensive hero:
+	Type: Rider
+	HP:44->0
+2023-06-17 20:40:22.640 +02:00 [INF] Victorious hero: 
+		Id:dfdb570c-8593-4645-9f6b-d412adcc7d08
+		Type: Rider
+		HP: 42
+2023-06-17 20:40:22.641 +02:00 [INF] Battle has finished!
+2023-06-17 20:40:46.214 +02:00 [INF] Battle has started!
+2023-06-17 20:40:46.388 +02:00 [INF] Battle round: 1
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:46.391 +02:00 [INF] Battle round: 2
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Sword
+	HP:120->0
+2023-06-17 20:40:46.391 +02:00 [INF] Battle round: 3
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:46.391 +02:00 [INF] Battle round: 4
+Offensive hero:
+	Type: Archer
+	HP:60->30
+Defensive hero:
+	Type: Sword
+	HP:120->0
+2023-06-17 20:40:46.392 +02:00 [INF] Battle round: 5
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:46.393 +02:00 [INF] Battle round: 6
+Offensive hero:
+	Type: Archer
+	HP:40->0
+Defensive hero:
+	Type: Archer
+	HP:100->100
+2023-06-17 20:40:46.394 +02:00 [INF] Battle round: 7
+Offensive hero:
+	Type: Rider
+	HP:85->42
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:46.396 +02:00 [INF] Battle round: 8
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:150->0
+2023-06-17 20:40:46.397 +02:00 [INF] Battle round: 9
+Offensive hero:
+	Type: Rider
+	HP:75->37
+Defensive hero:
+	Type: Rider
+	HP:52->0
+2023-06-17 20:40:46.401 +02:00 [INF] Battle round: 10
+Offensive hero:
+	Type: Rider
+	HP:150->75
+Defensive hero:
+	Type: Rider
+	HP:135->0
+2023-06-17 20:40:46.402 +02:00 [INF] Battle round: 11
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Rider
+	HP:75->37
+2023-06-17 20:40:46.403 +02:00 [INF] Battle round: 12
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:46.403 +02:00 [INF] Battle round: 13
+Offensive hero:
+	Type: Rider
+	HP:47->0
+Defensive hero:
+	Type: Rider
+	HP:57->67
+2023-06-17 20:40:46.404 +02:00 [INF] Battle round: 14
+Offensive hero:
+	Type: Archer
+	HP:100->50
+Defensive hero:
+	Type: Sword
+	HP:120->0
+2023-06-17 20:40:46.405 +02:00 [INF] Battle round: 15
+Offensive hero:
+	Type: Sword
+	HP:120->60
+Defensive hero:
+	Type: Archer
+	HP:80->0
+2023-06-17 20:40:46.405 +02:00 [INF] Battle round: 16
+Offensive hero:
+	Type: Sword
+	HP:120->60
+Defensive hero:
+	Type: Archer
+	HP:60->0
+2023-06-17 20:40:46.406 +02:00 [INF] Battle round: 17
+Offensive hero:
+	Type: Rider
+	HP:97->48
+Defensive hero:
+	Type: Archer
+	HP:100->0
+2023-06-17 20:40:46.407 +02:00 [INF] Battle round: 18
+Offensive hero:
+	Type: Rider
+	HP:48->0
+Defensive hero:
+	Type: Archer
+	HP:90->100
+2023-06-17 20:40:46.408 +02:00 [INF] Battle round: 19
+Offensive hero:
+	Type: Sword
+	HP:80->40
+Defensive hero:
+	Type: Sword
+	HP:90->0
+2023-06-17 20:40:46.409 +02:00 [INF] Battle round: 20
+Offensive hero:
+	Type: Sword
+	HP:40->0
+Defensive hero:
+	Type: Archer
+	HP:100->100
+2023-06-17 20:40:49.179 +02:00 [INF] Victorious hero: 
+		Id:37934a0d-b749-4746-b8de-c87ed6af1082
+		Type: Archer
+		HP: 100
+2023-06-17 20:40:49.182 +02:00 [INF] Battle has finished!
